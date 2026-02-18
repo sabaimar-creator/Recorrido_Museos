@@ -1,0 +1,208 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "CLASE": "MUSEO",
+                "NOMBRE": "Museo de Historia y Cultura. Casa Pedrilla",
+                "NUCLEO": "CACERES",
+                "URL": "https://sig.caceres.es/serweb/fichasig/fichatoponimia.php?mslink=1644",
+                "WGS84_X": -6.369195,
+                "WGS84_Y": 39.46964,
+                "DIRECCION": "Rda. de San Francisco, s/n",
+                "TIPO": "Historia y cultura",
+                "BARRIO": "Centro Casco Antiguo",
+                "PRECIO": "Gratuito",
+                "DIAS": "Martes a Sábado",
+                "HORARIO": "10:00 - 14:00 / 17:00 - 20:00, Domingos y festivos 11:00 - 14:00",
+                "WEB": "https://turismo.caceres.es/es/recurso-poi/museo-de-historia-y-cultura-casa-pedrilla"
+            },
+
+            "geometry": {
+                "coordinates": [
+                    -6.369185135690157,
+                    39.46980529404196
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CLASE": "MUSEO",
+                "NOMBRE": "Museo de Armas o Palacio de las Cigüeñas",
+                "NUCLEO": "CACERES",
+                "URL": "https://sig.caceres.es/serweb/fichasig/fichatoponimia.php?mslink=10648",
+                "WGS84_X": -6.370486,
+                "WGS84_Y": 39.473089,
+                "DIRECCION": "Plaza San Mateo",
+                "TIPO": "Histórico",
+                "BARRIO": "Centro Casco Antiguo",
+                "PRECIO": "Gratuito",
+                "DIAS": "Sábados y Domingos",
+                "HORARIO": "S: 11:00 - 14:00 / 17:00 - 20:00, D: 11:00 - 14:00",
+                "WEB" : "https://turismo.caceres.es/es/recurso-poi/palacio-del-capitan-diego-de-ovando-palacio-de-las-ciguenas"
+            },
+            "geometry": {
+                "coordinates": [
+                    -6.37060244598034,
+                    39.47315227139156
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CLASE": "MUSEO",
+                "NOMBRE": "Museo de la Historia de la Computacion",
+                "NUCLEO": "CACERES",
+                "URL": "https://sig.caceres.es/serweb/fichasig/fichatoponimia.php?mslink=11132",
+                "WGS84_X": -6.3729,
+                "WGS84_Y": 39.47389,
+                "DIRECCION": "Camino de Toril, 16",
+                "TIPO": "Informática",
+                "BARRIO": "Municipio de Majadas de Tiétar ",
+                "PRECIO": "Gratuito",
+                "DIAS": "Sábados",
+                "HORARIO": "10:30 - 14:00",
+                "WEB" : "https://www.museohc.com/"
+            },
+            "geometry": {
+                "coordinates": [
+                    -6.372853797605763,
+                    39.47388069852539
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CLASE": "MUSEO",
+                "NOMBRE": "Museo de la Concatedral",
+                "NUCLEO": "CACERES",
+                "URL": "https://sig.caceres.es/serweb/fichasig/fichatoponimia.php?mslink=10661",
+                "WGS84_X": -6.370011,
+                "WGS84_Y": 39.474491,
+                "DIRECCION": "Plaza de Santa María",
+                "TIPO": "Religioso",
+                "BARRIO": "Centro Casco Antiguo",
+                "PRECIO": "Entrada general 7€, aunque tiene diversas tarifas",
+                "DIAS": "Todos los días",
+                "HORARIO": "L-S: 10:00 - 20:00 / Domingos: 10:00 - 12:30 / 14:00 - 18:30",
+                "WEB" : "https://concatedralcaceres.com/"
+            },
+            "geometry": {
+                "coordinates": [
+                    -6.370409016757505,
+                    39.474965154172494
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CLASE": "MUSEO",
+                "NOMBRE": "Museo Casa-Museo Yusuf Al Burch",
+                "NUCLEO": "CACERES",
+                "URL": "https://sig.caceres.es/serweb/fichasig/fichatoponimia.php?mslink=1646",
+                "WGS84_X": -6.369551,
+                "WGS84_Y": 39.473668,
+                "DIRECCION": "Cta. del Marqués, 4",
+                "TIPO": "Histórico",
+                "BARRIO": "Centro Casco Antiguo",
+                "PRECIO": "Visita libre 3€",
+                "DIAS": "Todos los días",
+                "HORARIO": "10:30 - 14:00 / 16:00 - 19:30",
+                "WEB" : "https://casamuseoarabe.com/"
+            },
+            "geometry": {
+                "coordinates": [
+                    -6.369586683775588,
+                    39.4737142699793
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CLASE": "MUSEO",
+                "NOMBRE": "Casa de los Caballos",
+                "NUCLEO": "CACERES",
+                "URL": "https://sig.caceres.es/serweb/fichasig/fichatoponimia.php?mslink=1643",
+                "WGS84_X": -6.36978,
+                "WGS84_Y": 39.4727,
+                "DIRECCION": " C. Rincón de la Monja, 25",
+                "TIPO": "Historia y cultura",
+                "BARRIO": "Centro Casco Antiguo",
+                "PRECIO": "Gratuito",
+                "DIAS": "Martes a Domingo",
+                "HORARIO": "M-v: 9:00 - 14:30 / 16:00 - 20:00; Sábados y festivos: 10:00 - 14:30 / 16:00 - 20:00; Domingos: 10:00 - 15:00",
+                "WEB" : "https://turismo.caceres.es/es/recurso-poi/casa-de-los-caballos-0"
+            },
+            "geometry": {
+                "coordinates": [
+                    -6.3697997444146965,
+                    39.4727424413403
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "CLASE": "MUSEO",
+                "NOMBRE": "Museo de Caceres",
+                "NUCLEO": "CACERES",
+                "URL": "https://sig.caceres.es/serweb/fichasig/fichatoponimia.php?mslink=1642",
+                "WGS84_X": -6.370302,
+                "WGS84_Y": 39.472686,
+                "DIRECCION": "Plaza de las Veletas, 1",
+                "TIPO": "Histórico",
+                "BARRIO": "Centro Casco Antiguo",
+                "PRECIO": "Gratuito",
+                "DIAS": "Martes a Domingo",
+                "HORARIO": "M-v: 9:00 - 15:00 / 16:00 - 20:00; Sábados y festivos: 10:00 - 15:00 / 16:00 - 20:00; Domingos: 10:00 - 15:00",
+                "WEB" : "http://museodecaceres.juntaex.es/web/view/portal/index/index.php"
+            },
+            "geometry": {
+                "coordinates": [
+                    -6.370338422129111,
+                    39.47274966719534
+                ],
+                "type": "Point"
+            }
+            
+        },
+         {
+            "type": "Feature",
+            "properties": {
+                "CLASE": "MUSEO",
+                "NOMBRE": "Museo de Arte Contemporáneo Helga de Alvear",
+                "NUCLEO": "CACERES",
+                "URL": "https://sig.caceres.es/serweb/fichasig/fichatoponimia.php?mslink=1642",
+                "WGS84_X": -6.37458,
+                "WGS84_Y": 39.47132,
+                "DIRECCION": "Calle Pizarro, 10",
+                "TIPO": "Arte Contemporáneo",
+                "BARRIO": "Centro",
+                "PRECIO": "Gratuito",
+                "DIAS": "Martes a Domingo",
+                "HORARIO": "M-S: 10:00 - 14:00 / 17:00 - 20:00; Domingos: 10:00 - 14:30",
+                "WEB" : "https://www.museohelgadealvear.com/es/"
+            },
+            "geometry": {
+                "coordinates": [
+                    -6.373333,
+                    39.471667
+                ],
+                "type": "Point"
+            }
+            
+        }
+    ]
+}

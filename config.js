@@ -57,7 +57,7 @@ var config = {
             id: 'second-identifier',
             alignment: 'left',
             hidden: false,
-            title: 'Museo de Armas',
+            title: 'Museo de Armas o Palacio de las Cigüeñas',
             image: 'https://www.extremadura.com/uploads/pg_models/media/photo/derivative/image/18195/museo-de-armas-de-caceres-2_xs.jpg',
             description: 'En el Museo de Armas de Cáceres destaca principalmente su gran torre, mucho más elevada que el resto de los palacios que componen el cojunto monumental. Esto se debe a que cuando la Reina Isabel la Católica mandó desmochar las torres cacereñas, hizo una excepción con este que entonces se estaba construyendo por orden del capitán Diego de Ovando, vasallo y miembro de su Real Consejo.',
             location: {
@@ -109,7 +109,7 @@ var config = {
             hidden: false,
             title: 'Museo de la Concatedral',
             image: 'https://turismo.caceres.es/sites/default/files/multimedia/IGLESIA%20CONCATEDRAL%20DE%20SANTA%20MAR%C3%8DA%203.jpg',
-            description: 'El origen de esta iglesia se remonta al siglo XIII dentro de las características del románico. Sufrirá una reforma que ocupará desde finales del siglo XV hasta mediados del siglo XVI en estilo tardogótico. Serán conservados de su etapa románica canecillos tardorrománicos, las cabezas de la viga que asoma al exterior, sobre las puertas góticas occidental y meridional. El templo está construido en sillería, destacando al sobriedad del exterior, típica de la arquitectura medieval española. Debido a su reconstrucción entre los siglos XV y XVI se impregna de elementos de transición hacia el gótico y renacentistas, que son visibles en la torre y el coro. Entre los espacios más destacables de la Concatedral de Santa María de Cáceres están las dos portadas del templo. La principal, y más característica que da acceso desde la Plaza Mayor, se sitúa en el lado del Evangelio y es singular su arco apuntado gótico, correspondiente a finales del siglo XIII y principios del XIV.',
+            description: 'El origen de esta iglesia se remonta al siglo XIII dentro de las características del románico. Sufrirá una reforma que ocupará desde finales del siglo XV hasta mediados del siglo XVI en estilo tardogótico. Serán conservados de su etapa románica canecillos tardorrománicos, las cabezas de la viga que asoma al exterior, sobre las puertas góticas occidental y meridional. El templo está construido en sillería, destacando al sobriedad del exterior, típica de la arquitectura medieval española. Debido a su reconstrucción entre los siglos XV y XVI se impregna de elementos de transición hacia el gótico y renacentistas, que son visibles en la torre y el coro.',
             location: {
                 center: [
                     -6.370409016757505,
@@ -193,16 +193,16 @@ var config = {
         },
         {
             id: 'eighth-chapter',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
             title: ' Museo de Arte Contemporáneo Helga de Alvear',
             image: 'https://turismo.caceres.es/sites/default/files/styles/simplecrop__16_9_/public/recurso_poi/MUSEO%20DE%20ARTE%20CONTEMPOR%C3%81NEO%20HELGA%20DE%20ALVEAR.jpg?itok=RcMKSLIf&sc=482d4ba492dbd6c40e834d812cfae2ad',
-            description: 'El Museo Helga de Alvear alberga una de las colecciones de arte contemporáneo internacionales más importantes de Europa: la Colección Helga de Alvear, compuesta por más de 3.000 obras de artistas de la talla de Goya, Olafur Eliasson Picasso, Louise Bourgeois, Kandinsky, Helena Almeida o Ai Weiwei. En febrero de 2021 se inauguró el edificio de nueva planta diseñado por Emilio Tuñón y su equipo, un proyecto que ha cosechado premios internacionales de arquitectura y que ofrece al visitante un oasis de contrastes y modernidad en respetuoso equilibrio con el casco histórico de la ciudad. Además, el Museo cuenta con un segundo edificio donde es posible disfrutar de exposiciones temporales, que cambian cada pocos meses. La institución ofrece acceso gratuito y una programación de actividades, visitas y talleres creativos para todos los públicos.',
+            description: 'El Museo Helga de Alvear alberga una de las colecciones de arte contemporáneo internacionales más importantes de Europa: la Colección Helga de Alvear, compuesta por más de 3.000 obras de artistas de la talla de Goya, Olafur Eliasson Picasso, Louise Bourgeois, Kandinsky, Helena Almeida o Ai Weiwei. En febrero de 2021 se inauguró el edificio de nueva planta diseñado por Emilio Tuñón y su equipo, un proyecto que ha cosechado premios internacionales de arquitectura y que ofrece al visitante un oasis de contrastes y modernidad en respetuoso equilibrio con el casco histórico de la ciudad.',
             location: {
                 center: [
-                    -6.37458, 39.47132
+                    -6.373333, 39.471667
                 ],
-                zoom: 18,
+                zoom: 19.5,
                 pitch: 34,
                 bearing: 75
             },
